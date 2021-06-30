@@ -11,7 +11,7 @@
     <dl>
         <dt><h3 align="center">🦈 About Me</h3></dt>
           <dd>:octocat:&nbsp;Currently a Sr. Software Engineer at <a href="https://github.com">GitHub</a></dd>
-          <dd>🇰🇷&nbsp;I was born in Seoul, and currently live in
+          <dd>🇰🇷&nbsp;I was born in Seoul, and currently live in Chicago
             &nbsp;<img width="20px" alt="Chicago flag" src="https://emojis.slackmojis.com/emojis/images/1499373328/2580/chicago_flag.png" /></dd>
           <dd>
             <img width="20px" alt="trans meow" src="https://emojis.slackmojis.com/emojis/images/1614721634/16544/meow_trans.png" />
