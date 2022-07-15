@@ -33,8 +33,8 @@
 #### 🏋️ Lifting
 ```js
 {
-  "squats": 185,
-  "bench": 155,
+  "squats": 205,
+  "bench": 165,
   "shoulder": 95,
   "deadlift": 175
 }
