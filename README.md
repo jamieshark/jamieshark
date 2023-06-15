@@ -34,9 +34,9 @@
 ```js
 {
   "squats": 205,
-  "bench": 165,
-  "shoulder": 95,
-  "deadlift": 175
+  "bench": 185,
+  "shoulder": 105,
+  "deadlift": 195
 }
 ```
 
