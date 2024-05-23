@@ -5,7 +5,7 @@
 <div class="p-4">
   <div> 
 <!-- social media links     <h3 width="200px"><a href="https://twitter.com/jamieshark_" target="_blank"><img width="30px"  src="https://camo.githubusercontent.com/35b0b8bfbd8840f35607fb56ad0a139047fd5d6e09ceb060c5c6f0a5abd1044c/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f747769747465722e737667"></a></h3> -->
-    <img align="left" width="420px" src="https://user-images.githubusercontent.com/5520141/120527072-8a279b80-c39f-11eb-83c7-5d1769161832.gif" />
+    <img align="left" width="420px" style="padding-right: 1em;" src="https://user-images.githubusercontent.com/5520141/120527072-8a279b80-c39f-11eb-83c7-5d1769161832.gif" />
   </div>
   <div>
     <dl>
