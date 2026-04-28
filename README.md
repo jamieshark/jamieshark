@@ -10,13 +10,6 @@
     <dl>
         <dt><h3 align="center">🦈 About Me</h3></dt>
           <dd>:octocat:&nbsp;Currently a Sr. Software Engineer at <a href="https://github.com">GitHub</a></dd>
-          <dd>🇰🇷&nbsp;I was born in Seoul, and currently live in Chicago
-            &nbsp;<img width="20px" alt="Chicago flag" src="https://emojis.slackmojis.com/emojis/images/1499373328/2580/chicago_flag.png" /></dd>
-          <dd>
-            <img width="20px" alt="trans meow" src="https://emojis.slackmojis.com/emojis/images/1614721634/16544/meow_trans.png" />
-             I'm trans, non-binary, and use <strong><a href="https://www.mypronouns.org/they-them" target="_blank">they/them</a></strong> pronouns.
-          </dd>
-      <dd>📫&nbsp;How to reach me: <a href="mailto:jamieshark@github.com" target="_blank">email is best</a></dd>
           <dd><img width="20px" src="https://user-images.githubusercontent.com/5520141/120527157-a0355c00-c39f-11eb-8521-20334ca55036.gif" /> Fun fact: I like sharks.</dd>
     </dl>
   </div>
