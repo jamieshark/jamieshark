@@ -14,20 +14,3 @@
     </dl>
   </div>
 </div>
-
----
-
-
-
-#### 🎮 Playing
-<img height="150px" src="https://media.contentapi.ea.com/content/dam/masseffect/images/2020/10/me-featured-image-mele-keyart-logo.jpg.adapt.crop191x100.1200w.jpg" />
-
-#### 🏋️ Lifting
-```js
-{
-  "squats": 205,
-  "bench": 185,
-  "shoulder": 105,
-  "deadlift": 195
-}
-```
