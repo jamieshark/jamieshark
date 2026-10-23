@@ -9,7 +9,7 @@
   <div>
     <dl>
         <dt><h3 align="center">🦈 About Me</h3></dt>
-          <dd>:octocat:&nbsp;Currently a Sr. Software Engineer at <a href="https://github.com">GitHub</a></dd>
+          <dd>:octocat:&nbsp;Currently SWEing at <a href="https://github.com">GitHub</a></dd>
           <dd><img width="20px" src="https://user-images.githubusercontent.com/5520141/120527157-a0355c00-c39f-11eb-8521-20334ca55036.gif" /> Fun fact: I like sharks.</dd>
     </dl>
   </div>
